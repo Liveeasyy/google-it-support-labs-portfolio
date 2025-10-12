@@ -1,1 +1,25 @@
+# Lab 1 — Small Office Network with DHCP and DNS
+
+### Objective
+Simulate a small office environment where PCs receive IP addresses automatically from a DHCP router and resolve names using a DNS server.
+
+### Tools
+- Cisco Packet Tracer 8.2
+- Basic Cisco IOS configuration
+
+### Key Configurations
+- Router: DHCP pool for 192.168.10.0/24
+- DNS Server: `server.local` → 192.168.10.10
+- PCs: auto IP + name resolution test
+
+### Verification
+- All clients successfully received IPs.
+- `ping server.local` resolved via DNS.
+- Network topology stable and scalable.
+
+### Reflection
+This lab helped me understand how DHCP simplifies host configuration and why DNS is critical for service discovery — especially in cloud systems where IPs often change dynamically.
+
+### Preview
+![Topology Screenshot](screenshots.png)
 
