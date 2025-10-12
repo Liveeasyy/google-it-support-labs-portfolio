@@ -23,7 +23,7 @@ Design and configure a small office network where all clients receive dynamic IP
 - DNS and DHCP working end-to-end
 
 ### 📸 Screenshots
-![Topology](./screenshot)
+
 
 ### 💭 Reflection
 This lab deepened my understanding of how network services (DHCP/DNS) simplify administration in enterprise and cloud environments.  
