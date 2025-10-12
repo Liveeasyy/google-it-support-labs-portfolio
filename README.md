@@ -3,12 +3,11 @@ This repository documents my hands-on labs and projects from the [Google IT Supp
 ## 🧩 Courses & Labs
 
 ### ✅ Course 1 — Technical Support Fundamentals
-- [Overview](./course1-technical-support-fundamentals/README.md)
 - Focused on troubleshooting methodology, hardware fundamentals, OS basics, and customer support.
 
 ### 🚀 Course 2 — The Bits and Bytes of Computer Networking
-- [Lab 1: DHCP and DNS in a Small Office Network](./course2-networking/lab1-dhcp-dns-small-office/README.md)
-- [Lab 2: Static Routing Between Two Subnets](./course2-networking/lab2-static-routing/README.md)
+- [Lab 1: DHCP and DNS in a Small Office Network
+- [Lab 2: Static Routing Between Two Subnets]
 - Upcoming: Subnetting Challenge, Multi-Tier Web-Database Simulation
 
 ---
