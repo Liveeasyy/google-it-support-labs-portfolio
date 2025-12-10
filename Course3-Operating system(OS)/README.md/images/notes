@@ -66,11 +66,9 @@ Screenshots
 
 
 
-![Permission Editing Screenshot](docs/images/permission-edit.png)
+![Course3-Operating system(OS](/README.md/images)
 
-🧠 Key Takeaways
-
-NTFS permissions are hierarchical and inheritance plays a major role.
+Key Takeaways
 
 “Deny” permissions override “Allow,” and must be used carefully.
 
@@ -78,7 +76,7 @@ Understanding effective permissions prevents access issues and security gaps.
 
 IT Support roles rely heavily on identifying, modifying, and troubleshooting permission errors.
 
-🧩 Troubleshooting I Performed
+ Troubleshooting I Performed
 
 Tested access using two different accounts
 
@@ -86,7 +84,7 @@ Tried opening restricted folders to validate permissions
 
 Identified missing inheritance causing unexpected access denial
 
-This section shows employers that you troubleshoot on your own — keep it.
+
 
 🚀 How This Lab Connects to My Career Goals
 
@@ -105,9 +103,9 @@ Database engineering (because DB permissions follow the same principles)
 📂 Repository Structure
 /Lab-File-Folder-Permissions
 │── README.md
-│── docs/
+│── 
 │   └── images/
 │       └── screenshot1.png
 │       └── screenshot2.png
 └── notes/
-    └── permission-concepts.md
+
