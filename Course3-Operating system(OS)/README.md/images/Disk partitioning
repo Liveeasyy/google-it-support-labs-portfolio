@@ -1,1 +1,6 @@
+On Windows systems, a common practice is to use one primary partition that contains the operating system, applications, and user data. The drive letter C: is mostly used to identify this partition. Other partitions are created on the hard disk for specialized functions, like storing data of a specific type. It's also common practice to assign partition letter names in order, creating disk partition D:, E:, F:, and so on.
 
+In this lab, you'll see how this is done by partitioning an extra disk attached to the system into two partitions of 1GB and 9GB each.
+
+Formatting a partition
+Next, you'll format a partition to a different file format.
